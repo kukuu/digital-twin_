@@ -11,6 +11,47 @@ This development covers:
 3. Vercel to host connection and configuration to  versioning and source control of code repository in GitHub - Frontend. 
 4. Dynamically calculate the cost of Meter Reading cumulatively.    
 
+## Technologies
+  
+- Python
+- Node
+- TypeScript
+- REACT
+- Supabase
+- PostGreSQL
+- MongoDB 
+- Apache KAFKA
+- RabbitMQ
+- Apache Flink
+- PRISMA ORM
+- Microservices
+- NextJS
+- GraphQL
+- FLASK
+- Websocket
+- EXPRESS
+- Prometheus
+- Elasticsearch
+- KABANA
+- Jenkins
+- Kubernetes
+- Docker
+- Logstash
+- Grafana
+- Render
+- AWS
+- Google Cloud
+- ARIMA
+- LSTM
+- Datadog
+- Flink
+- OWASP ZAP
+- SENTRY
+- SONARCUBE
+- Jest
+- Cypress
+- REACT
+- Tailwind CSS
 
 ## Frontend is hosted on Vercel
  
