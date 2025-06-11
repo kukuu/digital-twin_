@@ -32,7 +32,9 @@ https://digital-twin-v2-chi.vercel.app/
 
 https://supabase.com/dashboard/project/wqcbpdnltpmdhztxojes/editor/35802?schema=public
 
+## The Nut Cracker 
 
+https://github.com/kukuu/digital-twin-P-V-4
  
 ## AI / ML/ LLM Integration 
 
