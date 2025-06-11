@@ -50,7 +50,6 @@ This development covers:
 - SONARCUBE
 - Jest
 - Cypress
-- REACT
 - Tailwind CSS
 
 ## Frontend is hosted on Vercel
